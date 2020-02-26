@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bf67b5b-4c96-44c0-a84d-4a4e0020d720" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/a_first_test/MyFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/b_no_waits_is_pain/MyFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/c_implicitly_waits_help_us/MyFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/d_implicitly_waits_vs_refreshed_elements/MyFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e_explicit_waits_are_good/MyFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/f_explicit_wairts_work_with_proxy_elements/MyFirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSeleniumIP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testSeleniumIP.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLAfmzQl8PnhkuxMAArExzHvsw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="test_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\Tests Selenium WebDriver\Tests Selenium WebDriver\Selenium_projects\testSeleniumIP\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyFirstTest.verifyFirstTipIsCorrect_viaAssertTrue">
+    <configuration name="MyFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSeleniumIP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_first_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="a_first_test" />
+      <option name="MAIN_CLASS_NAME" value="a_first_test.MyFirstTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstTest.verifyFirstTipIsCorrect_viaAssertTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSeleniumIP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_first_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="a_first_test" />
+      <option name="MAIN_CLASS_NAME" value="a_first_test.MyFirstTest" />
+      <option name="METHOD_NAME" value="verifyFirstTipIsCorrect_viaAssertTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSeleniumIP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyFirstTest.verifyFirstTipIsCorrect_viaAssertTrue" />
+        <item itemvalue="JUnit.MyFirstTest" />
+        <item itemvalue="JUnit.Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bf67b5b-4c96-44c0-a84d-4a4e0020d720" name="Default Changelist" comment="" />
+      <created>1582711606360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582711606360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1582716985709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582716985709" />
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582713405243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582713405243" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582712470689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582712470689" />
+    <state x="590" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582716011892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1582716011892" />
+    <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582716018204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1582716018204" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582718446006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582718446006" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582718446005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582718446005" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582718446005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582718446005" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582718446005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582718446005" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1582712493252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1582712493252" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1582716122711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582716122711" />
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582713315661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1582713315661" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1582713203360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582713203360" />
+  </component>
+</project>
