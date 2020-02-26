@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bf67b5b-4c96-44c0-a84d-4a4e0020d720" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/a_first_test/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/b_no_waits_is_pain/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/c_implicitly_waits_help_us/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/d_implicitly_waits_vs_refreshed_elements/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e_explicit_waits_are_good/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/f_explicit_wairts_work_with_proxy_elements/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testSeleniumIP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testSeleniumIP.iml" afterDir="false" />
-    </list>
+    <list default="true" id="2bf67b5b-4c96-44c0-a84d-4a4e0020d720" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,12 +111,26 @@
       <option name="presentableId" value="Default" />
       <updated>1582711606360</updated>
     </task>
+    <task id="LOCAL-00001" summary="First_Selenium_Proj">
+      <created>1582718580265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582718580265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First_Selenium_Proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="First_Selenium_Proj" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1582718805579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1582718805579" />
     <state x="361" y="70" key="#Project_Structure" timestamp="1582716985709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -154,6 +151,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1582716018204" />
+    <state x="291" y="6" key="CommitChangelistDialog2" timestamp="1582718869835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="291" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582718869835" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582718446006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -178,6 +179,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582716122711" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582718689731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582718689731" />
     <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582713315661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
