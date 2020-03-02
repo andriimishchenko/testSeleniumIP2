@@ -1,4 +1,4 @@
-package a_first_test;
+package lesson08.a_first_test;
 
 import java.util.concurrent.TimeUnit;
 
