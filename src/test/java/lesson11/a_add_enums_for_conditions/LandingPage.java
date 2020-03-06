@@ -1,11 +1,11 @@
-package pages;
+package lesson11.a_add_enums_for_conditions;
 
-import static utils.Conditions.CLICKABLE;
+import static lesson11.a_add_enums_for_conditions.Conditions.CLICKABLE;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class LandingPage extends BasePage {
+class LandingPage extends BasePage {
 
     By searchBox = By.id("search_query_top");
     By tips = By.xpath("//*[@id=\"index\"]/div[2]/ul/li");
@@ -15,22 +15,22 @@ public class LandingPage extends BasePage {
         super(driver);
     }
 
-    public void openPage() {
+    void openPage() {
         open("http://automationpractice.com/index.php");
     }
 
-    public void searchFor(String searchQuery) {
+    void searchFor(String searchQuery) {
         $(searchBox, CLICKABLE).clear();
         $(searchBox).sendKeys(searchQuery);
 
         //$$(tips, 5);
     }
 
-    public String getFirstTipText() {
+    String getFirstTipText() {
         return $(firstTip).getText();
     }
 
-    public String getFirstTipText(int expTipsNumber) {
+    String getFirstTipText(int expTipsNumber) {
         return $$(tips, expTipsNumber).get(0).getText();
     }
 }

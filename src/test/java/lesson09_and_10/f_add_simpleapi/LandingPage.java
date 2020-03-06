@@ -1,11 +1,10 @@
-package pages;
-
-import static utils.Conditions.CLICKABLE;
+package lesson09_and_10.f_add_simpleapi;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
-public class LandingPage extends BasePage {
+class LandingPage extends BasePage {
 
     By searchBox = By.id("search_query_top");
     By tips = By.xpath("//*[@id=\"index\"]/div[2]/ul/li");
@@ -15,22 +14,18 @@ public class LandingPage extends BasePage {
         super(driver);
     }
 
-    public void openPage() {
+    void openPage() {
         open("http://automationpractice.com/index.php");
     }
 
-    public void searchFor(String searchQuery) {
-        $(searchBox, CLICKABLE).clear();
+    void searchFor(String searchQuery) {
+        $(searchBox, ExpectedConditions::elementToBeClickable).clear();
         $(searchBox).sendKeys(searchQuery);
 
         //$$(tips, 5);
     }
 
-    public String getFirstTipText() {
+    String getFirstTipText() {
         return $(firstTip).getText();
-    }
-
-    public String getFirstTipText(int expTipsNumber) {
-        return $$(tips, expTipsNumber).get(0).getText();
     }
 }

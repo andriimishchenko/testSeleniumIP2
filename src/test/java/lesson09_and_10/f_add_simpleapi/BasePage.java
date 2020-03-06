@@ -1,11 +1,9 @@
-package pages;
+package lesson09_and_10.f_add_simpleapi;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import utils.SimpleAPI;
-
-public abstract class BasePage extends SimpleAPI {
+public abstract class BasePage extends SimpleAPI{
 
     protected WebDriver driver;
 
@@ -15,7 +13,7 @@ public abstract class BasePage extends SimpleAPI {
     }
 
     @Override
-    protected WebDriver getDriver() {
+    WebDriver getDriver() {
         return driver;
     }
 }
