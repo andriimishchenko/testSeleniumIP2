@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bf67b5b-4c96-44c0-a84d-4a4e0020d720" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/a_first_test/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson08/a_first_test/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/b_no_waits_is_pain/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson08/b_no_waits_is_pain/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/c_implicitly_waits_help_us/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson08/c_implicitly_waits_help_us/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/d_implicitly_waits_vs_refreshed_elements/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson08/d_implicitly_waits_vs_refreshed_elements/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e_explicit_waits_are_good/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson08/e_explicit_waits_are_good/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/f_explicit_wairts_work_with_proxy_elements/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson08/f_explicit_wairts_work_with_proxy_elements/MyFirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson09/g_add_assertall/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson09/g_add_assertall/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson09/g_add_assertall/SimpleAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson09/g_add_assertall/SimpleAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +48,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson08" />
       <recent name="" />
       <recent name="test_1" />
     </key>
@@ -60,7 +56,22 @@
       <recent name="Z:\Tests Selenium WebDriver\Tests Selenium WebDriver\Selenium_projects\testSeleniumIP\" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyFirstTest.verifyFirstTipIsCorrect_viaAssertTrue">
+  <component name="RunManager" selected="JUnit.MyFirstTest (1)">
+    <configuration name="MyFirstTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSeleniumIP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson09.e_add_basepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson09.e_add_basepage" />
+      <option name="MAIN_CLASS_NAME" value="lesson09.e_add_basepage.MyFirstTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testSeleniumIP" />
       <extension name="coverage">
@@ -92,6 +103,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyFirstTest.verifyFirstTipIsCorrectlyUpdatedAfterEnteringNewQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSeleniumIP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson09.e_add_basepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson09.e_add_basepage" />
+      <option name="MAIN_CLASS_NAME" value="lesson09.e_add_basepage.MyFirstTest" />
+      <option name="METHOD_NAME" value="verifyFirstTipIsCorrectlyUpdatedAfterEnteringNewQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testSeleniumIP" />
       <option name="PACKAGE_NAME" value="" />
@@ -103,6 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyFirstTest (1)" />
+        <item itemvalue="JUnit.MyFirstTest.verifyFirstTipIsCorrectlyUpdatedAfterEnteringNewQuery" />
         <item itemvalue="JUnit.MyFirstTest.verifyFirstTipIsCorrect_viaAssertTrue" />
         <item itemvalue="JUnit.MyFirstTest" />
         <item itemvalue="JUnit.Tests" />
@@ -134,13 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582718894617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson09">
+      <created>1583147855094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583147855094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First_Selenium_Proj" />
-    <option name="LAST_COMMIT_MESSAGE" value="First_Selenium_Proj" />
+    <MESSAGE value="lesson09" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson09" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Notifications" timestamp="1582718805579">
@@ -167,10 +204,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1583147743812" />
-    <state x="291" y="6" key="CommitChangelistDialog2" timestamp="1582718891613">
+    <state x="81" y="6" key="CommitChangelistDialog2" timestamp="1583147849852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="291" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582718891613" />
+    <state x="81" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583147849852" />
     <state x="634" y="305" key="Github.ShareDialog" timestamp="1582719043952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -199,10 +236,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582716122711" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582718915777">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583147859204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582718915777" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583147859204" />
     <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582713315661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
