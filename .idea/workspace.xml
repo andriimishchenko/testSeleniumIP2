@@ -2,62 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bf67b5b-4c96-44c0-a84d-4a4e0020d720" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/EventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/FileDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/RequestMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/SimpleAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/a_own_expected_condition/CustomExpectedConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/a_own_expected_condition/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/a_page_factory_and_lazy_proxy_lements/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/b_take_care_about_cachelookup/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/c_page_class_with_locators/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/d_add_basetest/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/d_add_basetest/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/d_add_basetest/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/e_add_basepage/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/e_add_basepage/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/e_add_basepage/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/e_add_basepage/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/f_add_simpleapi/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/f_add_simpleapi/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/f_add_simpleapi/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/f_add_simpleapi/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson09_and_10/f_add_simpleapi/SimpleAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/a_add_enums_for_conditions/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/a_add_enums_for_conditions/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/a_add_enums_for_conditions/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/a_add_enums_for_conditions/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/a_add_enums_for_conditions/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/a_add_enums_for_conditions/SimpleAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/b_add_assertall/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/b_add_assertall/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/b_add_assertall/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/b_add_assertall/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/b_add_assertall/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/b_add_assertall/SimpleAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/c_add_simple_logging/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/c_add_simple_logging/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/c_add_simple_logging/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/c_add_simple_logging/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/c_add_simple_logging/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/c_add_simple_logging/SimpleAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/d_add_wd_event_listener/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/d_add_wd_event_listener/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/e_file_downloading/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/e_file_downloading/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/f_file_uploading/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson11/f_file_uploading/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson12/BaseGUITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson12/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IN090057.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IN090063.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson12/BaseGUITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson12/BaseGUITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson12/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson12/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583489571299</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson09-10-11-12">
+      <created>1583491952908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583491952908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,10 +224,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1583147743812" />
-    <state x="81" y="6" key="CommitChangelistDialog2" timestamp="1583489557077">
+    <state x="81" y="6" key="CommitChangelistDialog2" timestamp="1583491949220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="81" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583489557077" />
+    <state x="81" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583491949220" />
     <state x="634" y="305" key="Github.ShareDialog" timestamp="1582719043952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -298,10 +256,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583490093986" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583489566696">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583492015789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583489566696" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583492015789" />
     <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582713315661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
